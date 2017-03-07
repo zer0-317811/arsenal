@@ -1,0 +1,8 @@
+
+date=`date`
+#echo ${date}
+
+git add /home/zer0/git/arsenal/
+git commit -m "${date}"
+git push origin --all
+
